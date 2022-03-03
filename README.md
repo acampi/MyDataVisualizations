@@ -11,7 +11,7 @@ This repository contains 2 main sections:
       <a href="https://github.com/acampi/MyDataVisualizations/tree/main/TidyTuesday/2022_W07" target="_blank" rel="noreferrer">Week 7<img src="https://github.com/acampi/MyDataVisualizations/blob/main/TidyTuesday/2022_W07/2022_W07_2.png" width="800" height="550"/>
       </a>
     <br>
-      <a href="https://github.com/acampi/MyDataVisualizations/tree/main/TidyTuesday/2021_W21" target="_blank" rel="noreferrer">Week 21<img src="https://github.com/acampi/MyDataVisualizations/blob/main/TidyTuesday/2021_W21/2021_W21.png" width="650" height="900"/>
+      <a href="https://github.com/acampi/MyDataVisualizations/tree/main/TidyTuesday/2021_W21" target="_blank" rel="noreferrer">Week 21<br><img src="https://github.com/acampi/MyDataVisualizations/blob/main/TidyTuesday/2021_W21/2021_W21.png" width="650" height="900"/>
       </a>
       </blockquote>
     </details>
