@@ -1,5 +1,5 @@
 # TidyTuesday | Week 5 | Dog Breeds
-# Ranking of Dog Breeds 
+# Ranking of Dog Breeds and their Sheeding Level
 
 library(tidyverse)
 library(ggbump)     # bump chart & sigmoid curves
@@ -77,11 +77,11 @@ p1 +
   geom_text(data= rank_data %>% filter(name==2019, value<=5), 
             aes(label=breed, x= 2018.5), size=3, family=f1) + 
   geom_text(data= rank_data %>% filter(name==2020, between(value,6,7)), 
-            aes(label=breed, x=2019.8), size=3, color="white",family=f1, hjust=1) +
+            aes(label=breed, x=2019.8), size=3, family=f1, hjust=1) +
   geom_text(data= rank_data %>% filter(name==2020, between(value,8,10)), 
             aes(label=breed, x=2019.8), size=3,family=f1, hjust=1) +
   geom_text(data= rank_data %>% filter(name==2014, value==6), 
-            aes(label=breed, x=2014.25), size=3, color="white", hjust=1,family=f1) +
+            aes(label=breed, x=2014.25), size=3, hjust=1,family=f1) +
   geom_text(data= rank_data %>% filter(name==2014, value==8), 
             aes(label=breed, x=2014.25), size=3, hjust=1,family=f1)
 
