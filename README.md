@@ -33,7 +33,7 @@ This repository contains 2 main sections:
     <h3><details open><summary> 2022</h3></summary>
     <blockquote>
       <strong>Halting Business in Russia</strong><br>
-      <img src="https://github.com/acampi/MyDataVisualizations/blob/main/MyDataVizs/russia_ban_1.png" width="500" height="450"/></a>
+      <img src="https://github.com/acampi/MyDataVisualizations/blob/main/MyDataVizs/russia_ban_1.png" width="500" height="400"/></a>
       <br>
       <img src="https://github.com/acampi/MyDataVisualizations/blob/main/MyDataVizs/russia_ban_2.png" width="850" height="520"/></a>
       <br>
